@@ -32,3 +32,4 @@
                   @java8
                   Scenario: ForEach Loop
                     Given I open "https://www.google.com" then ""
+                    @java9
