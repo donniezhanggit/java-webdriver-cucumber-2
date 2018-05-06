@@ -15,7 +15,16 @@
   <component name="ExportTestResults" outputFolder="$USER_HOME$/Docs/SQA/projects" userTempatePath="" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="webdriver.feature" pinned="false" current-in-tab="true">
+      <file leaf-file-name="java.feature" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/features/java.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webdriver.feature" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/features/webdriver.feature">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="510">
@@ -36,7 +45,7 @@
       <file leaf-file-name="USPSStepDefs.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/definitions/USPSStepDefs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
+            <state relative-caret-position="630">
               <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -48,7 +57,7 @@
       <file leaf-file-name="WebdriverStepDefs.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/definitions/WebdriverStepDefs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2475">
+            <state relative-caret-position="2685">
               <caret line="179" column="64" selection-start-line="179" selection-start-column="64" selection-end-line="179" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -77,12 +86,12 @@
         <option value="$PROJECT_DIR$/src/test/java/support/Hooks.java" />
         <option value="$PROJECT_DIR$/src/test/java/WebdriverStepDefs.java" />
         <option value="$PROJECT_DIR$/src/test/java/definitions/JavaStepdefs.java" />
-        <option value="$PROJECT_DIR$/src/test/resources/features/java.feature" />
         <option value="$PROJECT_DIR$/src/test/resources/features/webdriver.feature" />
         <option value="$PROJECT_DIR$/src/test/java/definitions/WebdriverStepDefs.java" />
         <option value="$PROJECT_DIR$/src/test/resources/features/usps.feature" />
         <option value="$PROJECT_DIR$/src/test/java/USPSStepDefs.java" />
         <option value="$PROJECT_DIR$/src/test/java/definitions/USPSStepDefs.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/java.feature" />
       </list>
     </option>
   </component>
@@ -91,6 +100,13 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
@@ -108,7 +124,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -171,6 +186,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -181,7 +197,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
@@ -359,6 +375,7 @@
       <workItem from="1525503083252" duration="2879000" />
       <workItem from="1525543115426" duration="1197000" />
       <workItem from="1525546604210" duration="22000" />
+      <workItem from="1525593730276" duration="1450000" />
     </task>
     <servers />
   </component>
@@ -395,25 +412,25 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95058000" />
+    <option name="totallyTimeSpent" value="96508000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1117" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="1116" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50104165" side_tool="true" visible="true" weight="0.32981783" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50159746" side_tool="true" visible="true" weight="0.32931727" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.23352435" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49946752" weight="0.32998997" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49895832" visible="true" weight="0.32981783" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49840257" visible="true" weight="0.32931727" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24322917" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2454739" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Learn" order="7" weight="0.32960597" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -432,16 +449,16 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.46255508" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2687776" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -452,7 +469,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39941263" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -808,13 +825,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/java.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="65" selection-start-line="33" selection-start-column="65" selection-end-line="33" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/support/TestContext.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -824,7 +834,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/definitions/WebdriverStepDefs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2475">
+        <state relative-caret-position="2685">
           <caret line="179" column="64" selection-start-line="179" selection-start-column="64" selection-end-line="179" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -848,7 +858,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/definitions/USPSStepDefs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
+        <state relative-caret-position="630">
           <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -861,6 +871,13 @@
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/java.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
         </state>
       </provider>
     </entry>
